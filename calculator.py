@@ -6,5 +6,9 @@ def addition():
 def substraction():
     print('substraction feature is added')
 
+def multiplication():
+    print ('multiplication feature is added')
+
 addition()
 substraction()
+multiplication()
