@@ -9,6 +9,9 @@ def substraction():
 def multiplication():
     print ('multiplication feature is added')
 
+def devision():
+	print('Devision is feature is added')
 addition()
 substraction()
 multiplication()
+division()
